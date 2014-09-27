@@ -1,4 +1,4 @@
 the-guild
 =========
 
-Squirrel Assasin home base
+Squirrel Assasin Home Base
