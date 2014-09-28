@@ -1,0 +1,1085 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"fa",
+				"favorites"
+			],
+			[
+				"rando",
+				"randomIntFromInterval"
+			],
+			[
+				"$s",
+				"$scope	AngularJS"
+			],
+			[
+				"u",
+				"unsetCurrentProvider"
+			],
+			[
+				"prov",
+				"provider"
+			],
+			[
+				"bag",
+				"background-color"
+			],
+			[
+				"$",
+				"$scope"
+			],
+			[
+				"au",
+				"Authorization"
+			],
+			[
+				"provider",
+				"providerData"
+			],
+			[
+				"bi",
+				"bids"
+			],
+			[
+				"url",
+				"urlBase"
+			],
+			[
+				"his",
+				"$scope.historyModal"
+			],
+			[
+				"ur",
+				"urlBase"
+			],
+			[
+				"get",
+				"getProvider"
+			],
+			[
+				"re",
+				"result"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"li",
+				"loginError"
+			],
+			[
+				"te",
+				"templateUrl"
+			],
+			[
+				"reso",
+				"responseData"
+			],
+			[
+				"bid",
+				"bidData"
+			],
+			[
+				"Rp",
+				"ResponseId"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"pa",
+				"padding-left"
+			],
+			[
+				"fi",
+				"fieldset	Tag"
+			],
+			[
+				"op",
+				"option	Tag"
+			],
+			[
+				"lo",
+				"loadBids"
+			],
+			[
+				"us",
+				"userData"
+			],
+			[
+				"_",
+				"_bids"
+			],
+			[
+				"user",
+				"userData"
+			],
+			[
+				"use",
+				"userName"
+			],
+			[
+				"tem",
+				"templates"
+			],
+			[
+				"password",
+				"passwordChecker"
+			],
+			[
+				"fie",
+				"FIELDSET	Tag"
+			],
+			[
+				"mo",
+				"module"
+			],
+			[
+				"a",
+				"appCtrl"
+			],
+			[
+				"pr",
+				"prepData"
+			],
+			[
+				"app",
+				"appCtrl"
+			],
+			[
+				"ex",
+				"exports"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"an",
+				"angular"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 311.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Disable Package"
+			],
+			[
+				"pret",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			],
+			[
+				"pre",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"pretty",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"PRETT",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"prett",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"PRETTY",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"pr",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"sid",
+				"View: Toggle Side Bar"
+			],
+			[
+				"tabs",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"tog",
+				"View: Toggle Side Bar"
+			],
+			[
+				"gith",
+				"Git: Commit history"
+			],
+			[
+				"histor",
+				"Git: Commit history"
+			],
+			[
+				"githist",
+				"Git: Commit history"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"convert",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"tasknew",
+				"Tasks: New document"
+			],
+			[
+				"new",
+				"Tasks: New"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"togg",
+				"View: Toggle Side Bar"
+			],
+			[
+				"convert to ",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"synt htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"sideb",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"rename",
+				"File: Rename"
+			],
+			[
+				"re",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"task",
+				"Tasks: New document"
+			],
+			[
+				"taskn",
+				"Tasks: New"
+			],
+			[
+				"toggl",
+				"View: Toggle Side Bar"
+			],
+			[
+				":",
+				":w - Save"
+			],
+			[
+				"syn htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"toggle",
+				"View: Toggle Side Bar"
+			],
+			[
+				"jade",
+				"Set Syntax: Jade"
+			],
+			[
+				"html ",
+				"Set Syntax: HTML"
+			],
+			[
+				"to",
+				"View: Toggle Side Bar"
+			],
+			[
+				"toggle sid",
+				"View: Toggle Side Bar"
+			],
+			[
+				"set syntax",
+				"Set Syntax: YAML"
+			],
+			[
+				"jav",
+				"Set Syntax: JavaScript"
+			]
+		],
+		"width": 472.0
+	},
+	"console":
+	{
+		"height": 279.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Projects/the-guild/server/config/seed.js",
+		"/C/Projects/the-guild/server/api/user/user.model.js",
+		"/C/Projects/the-guild/server/app.js",
+		"/C/Projects/the-guild/client/app/main/main.controller.js",
+		"/C/Projects/the-guild/client/app/main/main.js",
+		"/C/Projects/the-guild/client/app/app.js",
+		"/C/Projects/the-guild/README.md",
+		"/C/Program Files/MongoDB 2.6 Standard/README",
+		"/X/Class Work/Coursera/Intro to Interactive Python/Mini-project1.py",
+		"/C/Projects/StrawMan/package.json",
+		"/C/Projects/PRQFullstack/dist/package.json",
+		"/C/Projects/PRQFullstack/client/app/main/main.js",
+		"/C/Projects/PRQFullstack/client/app/app.js",
+		"/C/Projects/PRQFullstack/dist/public/app/b3500722.app.js",
+		"/C/Projects/PRQFullstack/dist/server/app.js",
+		"/C/Projects/PRQFullstack/dist/server/config/express.js",
+		"/C/Projects/PRQFullstack/dist/public/index.html",
+		"/C/Program Files (x86)/Git/bin/vi",
+		"/C/Projects/PRQFullstack/dist/server/components/errors/index.js",
+		"/C/Projects/PRQFullstack/client/app/Classes/Classes.html",
+		"/C/Projects/PRQFullstack/client/app/About/About.html",
+		"/C/Projects/PRQFullstack/client/components/navbar/navbar.html",
+		"/C/Projects/PRQFullstack/server/api/thing/thing.spec.js",
+		"/C/Projects/PRQFullstack/karma.conf.js",
+		"/C/Projects/PRQFullstack/client/components/navbar/navbar.controller.js",
+		"/C/Projects/PRQFullstack/client/index.html",
+		"/C/Projects/PRQFullstack/client/app/app.css",
+		"/C/Projects/PRQ/karma.conf.js",
+		"/C/Projects/PRQ/test/spec/controllers/main.js",
+		"/C/Users/Ben/AppData/Roaming/npm/node_modules/generator-angular-fullstack/package.json",
+		"/C/Users/Ben/AppData/Roaming/npm/node_modules/generator-angular/package.json",
+		"/C/Program Files/nodejs/node_modules/npm/bin/read-package-json.js",
+		"/C/Projects/PRQ/test/.jshintrc",
+		"/C/Projects/PRQ/test/runner.html",
+		"/C/Projects/PRQ/Gruntfile.js",
+		"/C/Projects/PRQ/app/scripts/directives/ui-affix.js",
+		"/C/Projects/PRQ/bower.json",
+		"/C/Projects/PRQ/app/bower_components/bootstrap/dist/js/bootstrap.js",
+		"/C/Projects/QuiltSite/app/views/main.html",
+		"/C/Projects/QuiltSite/app/index.html",
+		"/I/Games/SL Designs/Logs/Other Stuff/naughty/Conversation/8-30-03.htm",
+		"/C/Users/Ben/Downloads/zsmith_hdi_zip_code_distance/HowToCalculateZipDistance/HowToCalculateZipDistance/HowToCalculateZipDistance/ZipCode.cs",
+		"/C/Users/Ben/Downloads/zip_code_database.csv",
+		"/C/Users/Ben/Downloads/Gaz_zcta_national/Gaz_zcta_national.txt",
+		"/C/Users/Ben/Downloads/zsmith_hdi_zip_code_distance/HowToCalculateZipDistance/HowToCalculateZipDistance/HowToCalculateZipDistance/Program.cs",
+		"/C/Projects/Betacite/Gruntfile.js",
+		"/C/Users/Ben/AppData/Roaming/Sublime Text 2/Packages/User/Pretty JSON.sublime-settings",
+		"/C/Users/Ben/AppData/Roaming/Sublime Text 2/Packages/Pretty JSON/Pretty JSON.sublime-settings",
+		"/C/Users/Ben/Desktop/meeting.ics",
+		"/C/Users/Ben/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Ben/Desktop/GenaresMyVIBE/GenaresMyVIBE.html",
+		"/C/Projects/Betacite/bower.json",
+		"/C/Projects/QuiltSite/test/spec/controllers/main.js",
+		"/C/Projects/QuiltSite/Gruntfile.js",
+		"/C/Users/Ben/Downloads/ideavim-0.35-234/IdeaVim/README",
+		"/C/Projects/QuiltSite/bower.json",
+		"/C/Projects/QuiltSite/.bowerrc",
+		"/C/Projects/QuiltSite/app/scripts/app.js",
+		"/C/Projects/QuiltSite/karma.conf.js",
+		"/C/Projects/QuiltSite/package.json",
+		"/C/Projects/QuiltSite/npm-debug.log",
+		"/C/Projects/CoralReef/CoralReef/client/js/controllers/frontPageCtrl.js",
+		"/C/Projects/CoralReef/CoralReef/client/templates/dashboard.html",
+		"/C/Users/Ben/Documents/SQL Server Management Studio/createFavorite.sql",
+		"/C/Users/Ben/AppData/Roaming/Sublime Text 2/Packages/AdvancedNewFile/Default (Windows).sublime-keymap",
+		"/C/Users/Ben/AppData/Roaming/Sublime Text 2/Packages/User/AdvancedNewFile.sublime-settings",
+		"/C/Users/Ben/AppData/Roaming/Sublime Text 2/Packages/AdvancedNewFile/AdvancedNewFile.sublime-settings",
+		"/C/Users/Ben/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/Ben/AppData/Roaming/Sublime Text 2/Packages/AdvancedNewFile/README.md",
+		"/C/Projects/CoralReef/CoralReef/client/js/controllers/dashboardCtrl.js",
+		"/C/Projects/CoralReef/CoralReef/client/js/services/providerDataService.js",
+		"/C/Projects/CoralReef/CoralReef/client/js/controllers/providerLogInCtrl.js",
+		"/C/Projects/CoralReef/CoralReef/client/js/controllers/diverCtrl.js",
+		"/C/Projects/CoralReef/CoralReef/client/js/controllers/providerDashboardCtrl.js",
+		"/C/Projects/CoralReef/CoralReef/client/js/services/auth.js",
+		"/C/Projects/CoralReef/CoralReef/client/templates/signIn.html",
+		"/C/Projects/CoralReef/CoralReef/client/js/controllers/reefCtrl.js",
+		"/C/Projects/CoralReef/CoralReef/client/js/app.js",
+		"/C/Projects/CoralReef/CoralReef/client/js/controllers/signUpCtrl.js",
+		"/C/Projects/CoralReef/CoralReef/client/js/services/providerBidDataService.js",
+		"/C/Projects/CoralReef/CoralReef/client/js/services/bidDataService.js",
+		"/C/Projects/CoralReef/CoralReef/client/js/services/userDataService.js",
+		"/C/Users/Ben/Downloads/2760248 (1)/camera/camera/camera.ino",
+		"/E/Games/SteamLibrary/SteamApps/common/Sid Meier's Civilization V/Assets/DLC/Expansion2/Gameplay/XML/Terrain/CIV5Features_Inherited_Expansion2.xml",
+		"/E/Games/SteamLibrary/SteamApps/common/Sid Meier's Civilization V/Assets/DLC/Expansion2/Gameplay/XML/Terrain/CIV5Features_Expansion2.xml",
+		"/E/Games/SteamLibrary/SteamApps/common/Sid Meier's Civilization V/Assets/DLC/Expansion2/Gameplay/XML/Terrain/CIV5Features.xml",
+		"/C/Projects/CoralReef/CoralReef/Content/bootstrap.css",
+		"/C/Users/Ben/Desktop/Job Search Log",
+		"/C/Users/Ben/Downloads/Default.aspx.cs",
+		"/C/Users/Ben/Downloads/Default.aspx",
+		"/C/Projects/CoralReef/CoralReef/client/js/directives/pwCompare.js",
+		"/C/Users/Ben/Documents/bio.txt",
+		"/C/Users/Ben/Documents/mockhiltonapi.xml",
+		"/C/MockHiltonApi.cs",
+		"/C/Projects/CoralReef/CoralReef.Services/Service References/CoralReef.Services.OpenHotelAPI/get.wsdl",
+		"/C/Projects/CoralReef/CoralReef.Services/Service References/CoralReef.Services.OpenHotelAPI/Reference.cs",
+		"/C/Projects/CoralReef/CoralReef/client/js/services/responseDataService.js",
+		"/C/Projects/CoralReef/CoralReef/client/js/controllers/logInCtrl.js",
+		"/C/Projects/CoralReef/CoralReef/client/templates/providerdashboard.html",
+		"/C/Projects/CoralReef/CoralReef/Content/spinner/spinner.css",
+		"/C/Users/Ben/Downloads/css-spinners-master/css-spinners-master/css/spinners.css",
+		"/C/Users/Ben/Downloads/css-spinners-master/css-spinners-master/css/spinner/plus-loader.css",
+		"/C/Windows/Microsoft.NET/Framework64/v4.0.30319/Config/machine.config",
+		"/C/Users/Ben/Documents/TankerDBscript.sql",
+		"/C/Users/Ben/Documents/SQL Server Management Studio/getPaymentInfoByUserId.sql",
+		"/C/Users/Ben/Documents/SQL Server Management Studio/getUserAddressByUserId.sql",
+		"/C/Users/Ben/Documents/SQL Server Management Studio/UpdateUserTable.sql",
+		"/C/Users/Ben/Documents/SQL Server Management Studio/UpdatePaymentInfoTable.sql",
+		"/C/Users/Ben/Documents/SQL Server Management Studio/PopulatingProviderZips.sql",
+		"/C/Users/Ben/Documents/SQL Server Management Studio/PopulatingProviders.sql",
+		"/C/Users/Ben/Documents/SQL Server Management Studio/Create Tanker DB.sql",
+		"/C/Users/Ben/Documents/SQL Server Management Studio/UpdateUserTable2.sql",
+		"/C/Users/Ben/Documents/SQL Server Management Studio/getUserByUsername.sql",
+		"/C/Users/Ben/Documents/SQL Server Management Studio/createUser.sql",
+		"/C/Projects/CoralReef/CoralReef/client/templates/login.html",
+		"/C/Projects/CoralReef/CoralReef/client/templates/home.html",
+		"/C/Projects/CoralReef/CoralReef/client/js/controllers/homeCtrl.js",
+		"/C/Users/Ben/Documents/Seattle Hotels",
+		"/C/Users/Ben/Documents/Seattle Zip Codes",
+		"/C/Projects/CoralReef/CoralReef/client/js/services/base64.js",
+		"/C/Projects/CoralReef/CoralReef/client/templates/providersignin.html",
+		"/C/Projects/CoralReef/CoralReef/client/templates/bidDetails.html",
+		"/C/Projects/CoralReef/CoralReef/client/js/services/responseService.js",
+		"/C/Projects/CoralReef/CoralReef/client/js/controllers/bidDetailsCtrl.js",
+		"/C/Projects/CoralReef/CoralReef/client/js/services/jsonLoaderService.js",
+		"/C/Users/Ben/Downloads/angular-timer-master/angular-timer-master/angular-timer.js",
+		"/C/Projects/CoralReef/CoralReef/Content/json/bids.json",
+		"/C/Users/Ben/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 43.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"C:\\Projects\\CoralReef\\CoralReef\\client",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"},\"",
+			"35729",
+			"bid",
+			"fav",
+			"modal",
+			"myModal",
+			"span",
+			"loadBids",
+			"getResponsesByBidId",
+			"getProvider",
+			"providerDataService",
+			"bidData",
+			"return promise",
+			"ng-repeat",
+			"<OccurrenceFrequency>",
+			"OccurrenceFrequency",
+			"fountain",
+			"fount",
+			"span",
+			"div",
+			"Auth",
+			"$httpProvider",
+			"http",
+			"Auth",
+			"localStorage",
+			"urlBase",
+			"historyModal",
+			"getBid",
+			"getCurrentProviderBids",
+			"getCurrentUsersBids",
+			"getCurrentProviderBids",
+			"span",
+			"div",
+			"cycles",
+			"bidData",
+			"res",
+			"true",
+			"BidS",
+			"Bids",
+			"_bids",
+			"loadBids",
+			"form",
+			"clearBid",
+			"Accepted",
+			" Bid",
+			" Response",
+			"1",
+			"Responses",
+			"fieldset",
+			"h3",
+			"legend",
+			"showPlaceBid",
+			"JsonService",
+			"rating",
+			"h3",
+			"a",
+			"scope",
+			"div",
+			"shift+ctrl+r",
+			"'",
+			"reflect_css_value",
+			"ctrl+shift+r",
+			"model",
+			"inputPassword",
+			"\">",
+			"pw",
+			"rating",
+			".footer",
+			"footer",
+			"foot",
+			"note",
+			"rate",
+			"\"",
+			"User",
+			"ctrl+shift+r",
+			"Vintage",
+			"Vinta"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"rootscope",
+			"\""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 53.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"main.js",
+				"client/app/main/main.js"
+			],
+			[
+				"classes.ht",
+				"client/app/Classes/Classes.html"
+			],
+			[
+				"karma",
+				"karma.conf.js"
+			],
+			[
+				".spec.js",
+				"server/api/thing/thing.spec.js"
+			],
+			[
+				"bower",
+				"bower.json"
+			],
+			[
+				"bootstrap.js",
+				"app/bower_components/bootstrap/dist/js/bootstrap.js"
+			],
+			[
+				".css",
+				"app/styles/main.css"
+			],
+			[
+				"index",
+				"app/index.html"
+			],
+			[
+				"karm",
+				"karma.conf.js"
+			],
+			[
+				".html",
+				"app/views/main.html"
+			],
+			[
+				"ind",
+				"app/index.html"
+			],
+			[
+				"ref",
+				"js/controllers/reefCtrl.js"
+			],
+			[
+				"home",
+				"templates/home.html"
+			],
+			[
+				"log",
+				"js/controllers/frontPageCtrl.js"
+			],
+			[
+				"sig",
+				"js/controllers/signUpCtrl.js"
+			],
+			[
+				"front",
+				"js/controllers/frontPageCtrl.js"
+			],
+			[
+				"dash",
+				"js/controllers/dashboardCtrl.js"
+			],
+			[
+				"userdat",
+				"js/services/userDataService.js"
+			],
+			[
+				"dashbo",
+				"templates/dashboard.html"
+			],
+			[
+				"bid",
+				"js/services/bidDataService.js"
+			],
+			[
+				"respons",
+				"js/services/responseDataService.js"
+			],
+			[
+				"dashboardctrl",
+				"js/controllers/dashboardCtrl.js"
+			],
+			[
+				"compar",
+				"js/directives/pwCompare.js"
+			],
+			[
+				"signup",
+				"js/controllers/signUpCtrl.js"
+			],
+			[
+				"div",
+				"js/controllers/diverCtrl.js"
+			],
+			[
+				"app",
+				"js/app.js"
+			],
+			[
+				"ree",
+				"js/controllers/reefCtrl.js"
+			],
+			[
+				"auth",
+				"js/services/auth.js"
+			],
+			[
+				"diver",
+				"js/controllers/diverCtrl.js"
+			],
+			[
+				"providerlog",
+				"js/controllers/providerLogInCtrl.js"
+			],
+			[
+				"providerdash",
+				"templates/providerdashboard.html"
+			],
+			[
+				"login",
+				"js/controllers/logInCtrl.js"
+			],
+			[
+				"provider",
+				"js/controllers/providerLogInCtrl.js"
+			],
+			[
+				"providerdata",
+				"js/services/providerDataService.js"
+			],
+			[
+				"provi",
+				"js/controllers/providerDashboardCtrl.js"
+			],
+			[
+				"fro",
+				"js/controllers/frontPageCtrl.js"
+			],
+			[
+				"data",
+				"js/services/bidDataService.js"
+			],
+			[
+				"sign",
+				"templates/signIn.html"
+			],
+			[
+				"respones",
+				"js/services/responseDataService.js"
+			],
+			[
+				"user",
+				"js/services/userDataService.js"
+			],
+			[
+				"homectrl",
+				"js/controllers/homeCtrl.js"
+			],
+			[
+				"dashctr",
+				"js/controllers/dashboardCtrl.js"
+			],
+			[
+				"",
+				"js/app.js"
+			],
+			[
+				"homec",
+				"js/controllers/homeCtrl.js"
+			],
+			[
+				"providlog",
+				"js/controllers/providerLogInCtrl.js"
+			],
+			[
+				"fron",
+				"js/controllers/frontPageCtrl.js"
+			],
+			[
+				"bidda",
+				"js/services/bidDataService.js"
+			],
+			[
+				"a",
+				"js/app.js"
+			],
+			[
+				"serv",
+				"js/services/userDataService.js"
+			],
+			[
+				"hom",
+				"templates/home.html"
+			],
+			[
+				"reef",
+				"js/controllers/reefCtrl.js"
+			],
+			[
+				"biddet",
+				"templates/bidDetails.html"
+			],
+			[
+				"providerdataser",
+				"js/services/providerDataService.js"
+			],
+			[
+				"userdata",
+				"js/services/userDataService.js"
+			],
+			[
+				"app.",
+				"js/app.js"
+			],
+			[
+				"responsda",
+				"js/services/responseDataService.js"
+			],
+			[
+				"providbidda",
+				"js/services/providerBidDataService.js"
+			],
+			[
+				"biddat",
+				"js/services/bidDataService.js"
+			],
+			[
+				"pdashhtml",
+				"templates/providerdashboard.html"
+			],
+			[
+				"dashhtml",
+				"templates/dashboard.html"
+			],
+			[
+				"providerdashctr",
+				"js/controllers/providerDashboardCtrl.js"
+			],
+			[
+				"dashboctr",
+				"js/controllers/dashboardCtrl.js"
+			],
+			[
+				"providdatase",
+				"js/services/providerDataService.js"
+			],
+			[
+				"providerbid",
+				"js/services/providerBidDataService.js"
+			],
+			[
+				"providerdctr",
+				"js/controllers/providerDashboardCtrl.js"
+			],
+			[
+				"response",
+				"js/services/responseService.js"
+			],
+			[
+				"resp",
+				"js/services/responseService.js"
+			],
+			[
+				"dashboard",
+				"templates/dashboard.html"
+			],
+			[
+				"providerbidda",
+				"js/services/providerBidDataService.js"
+			],
+			[
+				"appjs",
+				"js/app.js"
+			],
+			[
+				"providersig",
+				"templates/providersignin.html"
+			],
+			[
+				"j",
+				"js/services/jsonLoaderService.js"
+			],
+			[
+				"json",
+				"js/services/jsonLoaderService.js"
+			],
+			[
+				"providerlg",
+				"js/controllers/providerLogInCtrl.js"
+			],
+			[
+				"ctrl.js",
+				"js/controllers/homeCtrl.js"
+			],
+			[
+				"loginhtm",
+				"client/templates/login.html"
+			],
+			[
+				"app.js",
+				"client/js/app.js"
+			],
+			[
+				"signhtm",
+				"client/templates/signIn.html"
+			],
+			[
+				"logctr",
+				"client/js/controllers/logInCtrl.js"
+			],
+			[
+				"jsonserv",
+				"client/js/services/jsonLoaderService.js"
+			],
+			[
+				"usedat",
+				"client/js/services/userDataService.js"
+			],
+			[
+				"inde",
+				"Views/Default/Index.cshtml"
+			],
+			[
+				"us",
+				"Content/json/users.json"
+			],
+			[
+				"userd",
+				"client/js/services/userDataService.js"
+			],
+			[
+				"homctr",
+				"client/js/controllers/homeCtrl.js"
+			],
+			[
+				"reefctrl",
+				"client/js/controllers/reefCtrl.js"
+			],
+			[
+				"template/rating",
+				"template/rating/rating.html"
+			],
+			[
+				"uibootstrap",
+				"Scripts/ui-bootstrap-tpls-0.3.0.js"
+			],
+			[
+				"rating",
+				"template/rating/rating.html"
+			],
+			[
+				"angularuijs",
+				"Scripts/angular-ui.js"
+			],
+			[
+				"sit",
+				"Content/Site.css"
+			],
+			[
+				"site",
+				"Content/Site.css"
+			],
+			[
+				"site.css",
+				"Content/Site.css"
+			],
+			[
+				"layout",
+				"Views/Shared/_Layout.cshtml"
+			],
+			[
+				"layou",
+				"Views/Shared/_Layout.cshtml"
+			],
+			[
+				"ratin",
+				"template/rating/rating.html"
+			],
+			[
+				"uitpl",
+				"Scripts/ui-bootstrap-tpls-0.3.0.js"
+			],
+			[
+				"boot",
+				"Content/bootstrap.css"
+			],
+			[
+				"wel",
+				"views/partials/welcome.jade"
+			],
+			[
+				"inja",
+				"views/index.jade"
+			],
+			[
+				"injad",
+				"views/index.jade"
+			],
+			[
+				"public/js/app",
+				"aes/public/js/app.js"
+			],
+			[
+				"index.jade",
+				"aes/views/index.jade"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 242.0,
+	"status_bar_visible": true
+}
