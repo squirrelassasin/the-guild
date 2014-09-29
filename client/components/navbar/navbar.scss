@@ -40,3 +40,18 @@ $colHighlight   : #ffffff;
 		color: $colDefault;
 		&:hover {
 			color: $colHighlight; }}}
+
+.brandText{
+	padding-left:10px;
+}
+// @media (max-width: 767px) {
+//	.navbar-default .navbar-nav .open .dropdown-menu {
+//		> li > a {
+//			color: $colDefault;
+//			&:hover, &:focus {
+//				color: $colHighlight; }}
+//		> .active {
+//			> a, > a:hover, > a:focus, {
+//				color: $colHighlight;
+//				background-color: $bgHighlight; }}}
+// }
