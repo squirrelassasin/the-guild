@@ -1,38 +1,41 @@
-<div ng-include="'components/navbar/navbar.html'"></div>
+<div class="wrap">
+	<div ng-include="'components/navbar/navbar.html'"></div>
 
-<header class="hero-unit" id="banner">
-  <div class="container">
-    <img src="assets/images/squirrelAssasin.png" alt="I'm an assasin!" class="pull-left">
-    <h1 class="pull-right pad-right">Welcome to The Guild</h1>
-    <p class="pull-right pad-right lead">Watch out for those crazy squirrels...</p>
-  </div>
-</header>
+	<header class="hero-unit" id="banner">
+		<div class="container">
+			<img src="assets/images/squirrelAssasin.png" alt="I'm an assasin!" class="pull-left img-responsive">
+			<h1 class="pull-right pad-right">Welcome to The Guild</h1>
+			<p class="pull-right pad-right lead">Watch out for those crazy squirrels...</p>
+		</div>
+	</header>
 
-<div class="container">
-  <div class="row">
-    <div class="col-lg-12">
-      <h1 class="page-header">Features:</h1>
-      <ul class="nav nav-tabs nav-stacked col-md-4 col-lg-4 col-sm-6" ng-repeat="thing in awesomeThings">
-        <li><a href="#" tooltip="{{thing.info}}">{{thing.name}}<button type="button" class="close" ng-click="deleteThing(thing)">&times;</button></a></li>
-      </ul>
-    </div>
-  </div>
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-12">
+				<h1 class="page-header">Projects:</h1>
+				<ul class="nav nav-tabs nav-stacked col-md-4 col-lg-4 col-sm-6" ng-repeat="thing in awesomeThings">
+					<li><a href="#" tooltip="{{thing.info}}">{{thing.name}}<button type="button" class="close" ng-click="deleteThing(thing)">&times;</button></a></li>
+				</ul>
+			</div>
+		</div>
 
-  <form class="thing-form">
-    <label>Syncs in realtime across clients</label>
-    <p class="input-group">
-      <input type="text" class="form-control" placeholder="Add a new thing here." ng-model="newThing">
-      <span class="input-group-btn">
-        <button type="submit" class="btn btn-primary" ng-click="addThing()">Add New</button>
-      </span>
-    </p>
-  </form>
+		<form class="thing-form">
+			<label>Syncs in realtime across clients</label>
+			<p class="input-group">
+				<input type="text" class="form-control" placeholder="Add a new thing here." ng-model="newThing">
+				<span class="input-group-btn">
+					<button type="submit" class="btn btn-primary" ng-click="addThing()">Add New</button>
+				</span>
+			</p>
+		</form>
+	</div>
+
 </div>
-
-<footer class="footer">
-  <div class="container">
-      <p>Angular Fullstack v2.0.13 |
-        <a href="https://twitter.com/tyhenkel">@tyhenkel</a> |
-         <a href="https://github.com/DaftMonk/generator-angular-fullstack/issues?state=open">Issues</a></p>
-  </div>
+<footer id="footer" class="footer">
+	<div class="container">
+		<p><a href="http://stackoverflow.com/users/241137/kaelle">
+			<img src="http://stackoverflow.com/users/flair/241137.png?theme=clean" width="208" height="58" alt="profile for kaelle at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for kaelle at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a></p>
+		<p>Built on Angular Fullstack v2.0.13 by
+			<a href="https://twitter.com/NWCodeMonkey">Kaelle</a></p>
+	</div>
 </footer>

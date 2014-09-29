@@ -1,0 +1,42 @@
+/* Navbar generated at http://twbscolor.smarchal.com/scss?bd=c0c0c0&bh=8a8a8a&cd=000000&ch=ffffff */
+
+$bgDefault      : #c0c0c0;
+$bgHighlight    : #8a8a8a;
+$colDefault     : #000000;
+$colHighlight   : #ffffff;
+.navbar-default {
+	background-color: $bgDefault;
+	border-color: $bgHighlight;
+	.navbar-brand {
+		color: $colDefault;
+		&:hover, &:focus { 
+			color: $colHighlight; }}
+	.navbar-text {
+		color: $colDefault; }
+	.navbar-nav {
+		> li {
+			> a {
+				color: $colDefault;
+				&:hover,  &:focus {
+					color: $colHighlight; }}}
+		> .active {
+			> a, > a:hover, > a:focus {
+				color: $colHighlight;
+				background-color: $bgHighlight; }}
+		> .open {
+			> a, > a:hover, > a:focus {
+				color: $colHighlight;
+				background-color: $bgHighlight; }}}
+	.navbar-toggle {
+		border-color: $bgHighlight;
+		&:hover, &:focus {
+			background-color: $bgHighlight; }
+		.icon-bar {
+			background-color: $colDefault; }}
+	.navbar-collapse,
+	.navbar-form {
+		border-color: $colDefault; }
+	.navbar-link {
+		color: $colDefault;
+		&:hover {
+			color: $colHighlight; }}}
